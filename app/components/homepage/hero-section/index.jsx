@@ -47,7 +47,7 @@ function HeroSection() {
           >
             Hello, <br />
             This is <span className="text-[#cd66e9]">{personalData.name} </span> <span>Portfolio,</span> 
-            <br />{`I'm interested in `}
+            <br />{`I am interested in `}
             <span className="text-[#ce65e2] inline-flex">
               <RotatingText
                 // mainClassName="px-2 sm:px-2 md:px-3 bg-cyan-300 text-black overflow-hidden py-0.5 sm:py-1 md:py-2 justify-center rounded-lg"

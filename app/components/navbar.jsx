@@ -10,7 +10,7 @@ function Navbar() {
           <Link
             href="/"
             className=" text-[#876abf] text-3xl font-bold">
-            Yoga's Portfolio
+            Yoga Portfolio
           </Link>
         </div>
 
