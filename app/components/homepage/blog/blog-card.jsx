@@ -25,17 +25,17 @@ function BlogCard({ blog }) {
           <p className="truncate flex-1 mr-2">
             {timeConverter(blog?.published_at)}
           </p>
-          <div className="flex items-center gap-3 flex-shrink-0">
+          {/* <div className="flex items-center gap-3 flex-shrink-0">
             <p className="flex items-center gap-1">
               <BsHeartFill />
               <span>{blog?.public_reactions_count || 0}</span>
-            </p>
+            </p> */}
             {/* Always reserve space for comments, show 0 if no comments */}
-            <p className="flex items-center gap-1">
+            {/* <p className="flex items-center gap-1">
               <FaCommentAlt />
               <span>{blog?.comments_count || 0}</span>
             </p>
-          </div>
+          </div> */}
         </div>
 
         {/* Title - Fixed Height dengan line-clamp */}
@@ -46,9 +46,9 @@ function BlogCard({ blog }) {
         </Link>
 
         {/* Reading Time - Fixed Height */}
-        <p className='mb-2 text-sm text-[#16f2b3] min-h-[20px]'>
+        {/* <p className='mb-2 text-sm text-[#16f2b3] min-h-[20px]'>
           {blog?.reading_time_minutes ? `${blog.reading_time_minutes} Min Read` : 'Quick Read'}
-        </p>
+        </p> */}
 
         {/* Description - Flex-grow untuk mengisi sisa ruang */}
         <div className="flex-1 flex items-start">
