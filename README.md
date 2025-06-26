@@ -1,4 +1,4 @@
-# Developer Portfolio
+# Yoga Personal Portfolio
 
 ### Having a hard time building a cool portfolio website? Don’t worry — you can use the Personal Portfolio template to create your own personal site in no time!
 It’s super easy to customize and perfect for developers or freelancers who want to show off their work in style.
