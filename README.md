@@ -1,6 +1,7 @@
 # Developer Portfolio
 
-### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
+### Having a hard time building a cool portfolio website? Don’t worry — you can use the Personal Portfolio template to create your own personal site in no time!
+It’s super easy to customize and perfect for developers or freelancers who want to show off their work in style.
 
 ---
 
@@ -24,15 +25,17 @@
 ---
 
 # Sections :bookmark:
+| Section            |
+| :----------------: |
+| HERO SECTION       |
+| ABOUT ME           |
+| EXPERIENCE         |
+| SKILLS             |
+| PROJECTS           |
+| EDUCATIONS         |
+| CERTIFICATION      |
+| CONTACTS           |
 
-- HERO SECTION
-- ABOUT ME
-- EXPERIENCE
-- SKILLS
-- PROJECTS
-- EDUCATION
-- BLOG
-- CONTACTS
 
 ---
 
