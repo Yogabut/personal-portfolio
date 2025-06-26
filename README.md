@@ -9,7 +9,7 @@ It’s super easy to customize and perfect for developers or freelancers who wan
 
 ![](./public/demo.png)
 
-## View live preview [here]().
+## View live preview [here](https://yogaasta-portfolio.netlify.app/).
 
 ---
 
