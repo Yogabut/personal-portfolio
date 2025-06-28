@@ -15,7 +15,7 @@ export const personalData = {
   email: 'yoga.asta.pra@gmail.com',
   phone: '+6281945062598',
   address: 'Denpasar, Bali, Indonesia',
-  github: 'hhttps://github.com/Yogabut',
+  github: 'https://github.com/Yogabut',
   instagram: 'https://www.instagram.com/yogaastaaa?igsh=MWxxOHZhNnl1c2d2eA%3D%3D&utm_source=qr',
   linkedIn: 'https://www.linkedin.com/in/yogaasta/',
   twitter: 'hhttps://x.com/1128Asta',
